@@ -1,3 +1,4 @@
+#Table.py
 import pandas as pd
 
 def generate_table(data, ses_values, sma_values, ssa_values):

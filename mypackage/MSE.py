@@ -1,4 +1,4 @@
-#MSE 
+#MSE.py
 def mean_squared_error(actual, predicted):
     """
     Calculate Mean Squared Error (MSE).

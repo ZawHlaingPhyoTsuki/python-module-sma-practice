@@ -1,3 +1,4 @@
+#plot.py
 import matplotlib.pyplot as plt
 
 def plot_time_series(data, sma_values, dma_values, ses_values, des_values):

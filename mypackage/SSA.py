@@ -1,4 +1,4 @@
-#SSA
+#SSA.py
 def simple_smoothing_average(data):
     """
     Calculate Simple Smoothing Average (SSA).
