@@ -1,3 +1,5 @@
+# main.py
+
 from mypackage.MSE import mean_squared_error
 from mypackage.SMA import simple_moving_average
 from mypackage.DMA import double_moving_average
